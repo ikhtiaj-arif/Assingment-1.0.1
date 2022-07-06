@@ -1,0 +1,163 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.title{
+    color: rgb(71, 71, 71);
+}
+.pera{ 
+    font-size: smaller;
+}
+
+.container-1 {
+    padding: 40px 100px;
+    background: rgba(36, 36, 36, 0.5) url(/images/donation4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    height: 45vh;
+    color: white;
+    text-align: center;
+    
+}
+
+.btn{
+    margin-top: 10%;
+    text-decoration: none;
+    padding: 8px 15px;
+    background-color: rgb(243, 100, 47);
+    color: antiquewhite;
+    font-weight: 500;
+    border-radius: 10px;
+}
+.container-2 {
+    margin-top: 50px;
+    padding: 0px 100px;
+    text-align: center;
+    display: block;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.taka{
+    margin: 5px;
+    padding: 25px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: grey;
+    background-color: rgb(252, 244, 233);
+}
+.taka:hover{
+    background-color: rgb(255, 226, 212);
+    border: 2px solid rgb(139, 57, 19);
+    color: rgb(139, 57, 19);;
+}
+#form{
+    width: 60vw;
+    padding: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-bottom: 2px solid rgba(233, 80, 80, 0.315);
+}
+
+.plans{
+    
+    margin-top: 100px;
+    padding: 0 70px;
+    text-align: center;
+
+}
+
+
+.choise{
+    margin: 15px;
+    padding-top: 30px;
+    width: 30vw;
+    height: 250px;
+    box-shadow:10px 10px 15px gray;
+    border-radius: 5px;
+    
+}
+.icon{
+    height: 40px;
+}
+.crd-3{
+    background-color: rgb(255, 244, 233);
+}
+.crd-2{
+    background-color: rgb(248, 244, 209);
+}
+.crd-1{
+    background-color: rgb(255, 227, 227);
+}
+
+
+.help{
+    margin: 50px 0px;
+    background-image: url(/images/donation13.jpg);
+    height: 40vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    color: antiquewhite;
+    font-weight: 100;
+}
+.side{
+    padding: 10px;
+}
+.card{
+    display: block;
+    margin: 10px;
+    width: 30%;
+    height: 480px;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 10px 10px 20px gray;
+}
+.card-head{
+    padding: 10px;
+}
+.card img{
+    width: 100%;
+}
+
+
+
+
+.sub{
+    margin: 100px;
+    text-align: center;
+}
+.mail-block{
+    padding: 50px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+#mail{
+    width: 60%;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+}
+
+footer{
+    background-color: rgb(37, 37, 37);
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    color: bisque;
+    font-family: 'Splash', cursive;
+}
+.spn{
+    color: orangered;
+}
