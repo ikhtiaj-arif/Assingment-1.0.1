@@ -12,7 +12,7 @@ body{
 
 .container-1 {
     padding: 40px 100px;
-    background: rgba(36, 36, 36, 0.5) url(/images/donation4.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/donation4.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -102,7 +102,7 @@ body{
 
 .help{
     margin: 50px 0px;
-    background-image: url(/images/donation13.jpg);
+    background-image: url(images/donation13.jpg);
     height: 40vh;
     width: 100vw;
     background-repeat: no-repeat;
@@ -118,7 +118,7 @@ body{
     display: block;
     margin: 10px;
     width: 30%;
-    height: 480px;
+    min-height: 480px;
     border-radius: 10px;
     overflow: hidden;
     text-align: center;
